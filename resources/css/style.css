@@ -21,6 +21,11 @@ body {
     color: aquamarine;
 }
 
+.copyright {
+    color: gray;
+    text-align: right;
+    font-size: 21px;
+}
 
 /* HEADINGS */
 
@@ -34,3 +39,4 @@ p {
     font-size: 21px;
     color: gray;
 }
+
